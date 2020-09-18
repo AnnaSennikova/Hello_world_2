@@ -1,4 +1,6 @@
 # Hello_world 
 # Hello-git
-git merge Hello_world_2^0
-git merge master Hello_world_2
+$ git checkout master
+$ git merge Hello_world_2
+(or)
+$ git merge Hello_world_2 master
