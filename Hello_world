@@ -1,3 +1,4 @@
 # Hello_world 
 # Hello-git
-
+git merge Hello_world_2^0
+git merge master Hello_world_2
